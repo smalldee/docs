@@ -39,7 +39,7 @@
     "@zetachain/addresses": "0.0.13",
     "@zetachain/toolkit": "^10.0.0",
     "@zetachain/ui-toolkit": "1.0.3",
-    "axios": "1.7.4",
+    "axios": "1.8.2",
     "bech32": "2.0.0",
     "clsx": "1.2.1",
     "date-fns": "^3.6.0",
